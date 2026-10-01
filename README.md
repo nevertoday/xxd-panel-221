@@ -1,12 +1,14 @@
 <div align="center">
 
-# XXD Panel 221｜摄影与数码混合媒介拼贴海报
+# XXD Panel 221｜新中式专色版画留白
 
-把普通照片重新导演成可独立使用的艺术海报；保留主体记忆点，让材质、构图与留白共同工作。
+把照片收成新中式专色版画：小品主体、东方留白、木刻丝网与两到四种专色。
 
 <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
 </div>
+
+> 原始提示词（五语入口）：[简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)。
 
 ## 16:9 左右双联样张
 
@@ -40,9 +42,9 @@
 
 ## 适用场景与解决的问题
 
-适合个人摄影整理、独立出版、展览练习和生活方式视觉创作。原图构图普通、背景杂乱或主体偏小，也可以通过删减、重组、裁切和尺度变化重新建立重点，而不是把照片套上滤镜。
+适合需要把一张普通照片做成新中式版画海报的场合：个人摄影整理、独立出版、展览练习、文化品牌视觉。上半保留可辨认的原照；下半不是滤镜，而是先读懂主体关系、结构、情绪与隐喻，再用剪影、大色块、刻线和正负形重新概括。
 
-整体呈现 **Tiny focal element / Expansive negative space / Warm neutral field / Sparse color accents** 的视觉气质：极小主体、巨大留白、低密度图文、单色印刷块与纸张颗粒共同构成安静、文学、克制、诗意而高级的独立出版物视觉。
+整体是小品式图形、东方留白、两到四种专色、纸张肌理与细瘦的现代书刊字。避免逐物转绘、满版、复杂背景、写实插画、卡通、3D、商业宣传和模板化效果。
 
 ## 使用窍门
 
