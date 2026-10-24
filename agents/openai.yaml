@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 221"
-  short_description: "新中式专色版画留白：上半保留原照，下半用木刻丝网专色和东方留白重新概括"
-  default_prompt: "Use $xxd-panel-221 to transform my photograph following the complete canonical source brief."
+  short_description: "新中式专色版画留白：把照片收成一枚章印般的小型专色版画，四周东方留白"
+  default_prompt: "Use $xxd-panel-221 to turn my photo into New-Chinese Spot-Colour Print artwork."

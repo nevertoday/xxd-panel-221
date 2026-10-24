@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-221
-description: "Create XXD Panel 221 raster artwork: a faithful photograph paired with a New-Chinese spot-colour woodcut and silkscreen, a small stamp-like subject, Eastern whitespace, two to four source-derived inks and sparse modern book type. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-221 or asks for this New-Chinese spot-colour print style."
+description: "XXD Panel 221｜New-Chinese Spot-Colour Print: condenses a photo into a small, seal-like New-Chinese print — silhouettes, large flat colour areas, white carved lines and positive-negative shapes with slightly rough edges, ink dropouts, slight misregistration and paper fibre, so it looks printed by woodcut, screen or stencil rather than painted — in two to four low-to-mid saturation spot colours taken from the photo (one structural colour, one focal colour, black or a dark tone for text, cream paper for space), set in wide Eastern-style white space with a few slim, modern book-typography words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-221 or asks for New-Chinese, woodcut, risograph or spot-colour print illustration with Eastern white space from a photo."
 ---
 
 # XXD Panel 221

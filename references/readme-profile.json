@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 221｜New-Chinese Spot-Colour Print: condenses a photo into a small, seal-like New-Chinese print — silhouettes, large flat colour areas, white carved lines and positive-negative shapes with slightly rough edges, ink dropouts, slight misregistration and paper fibre, so it looks printed by woodcut, screen or stencil rather than painted — in two to four low-to-mid saturation spot colours taken from the photo (one structural colour, one focal colour, black or a dark tone for text, cream paper for space), set in wide Eastern-style white space with a few slim, modern book-typography words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-221 or asks for New-Chinese, woodcut, risograph or spot-colour print illustration with Eastern white space from a photo.",
+  "short_description": "新中式专色版画留白：把照片收成一枚章印般的小型专色版画，四周东方留白",
+  "zh-CN": {
+    "name": "新中式专色版画留白",
+    "tagline": "把照片收成一枚章印般的小型新中式专色版画，四周是大片东方留白。",
+    "look": "照片被概括成一枚章印般的小型版画：剪影、大色块、白色刻线和正负形，边缘略粗粝，带掉墨、轻微套印偏差和纸张纤维，像印出来而不是画出来。颜色是从照片里取的两到四种中低饱和专色：一个主色压住结构，一个点题色抓住焦点，黑或深色负责文字和少量轮廓，米白纸面占大半。主体可偏心、贴边或局部裁切，四周是东方式的大片留白。留白或角落里放几处细瘦、带现代书刊排版感的小字。",
+    "traits": [
+      "木刻丝网版画",
+      "2–4 种专色",
+      "章印式小主体",
+      "东方留白",
+      "书刊细字"
+    ],
+    "good": [
+      "有东方意境或轮廓清楚的景物：一座塔、一枝梅、远山、一叶小船",
+      "剪影明确的人和动物：撑伞的人、一只鹤、一只猫",
+      "想做文化品牌视觉、书籍封面或节气海报的照片"
+    ],
+    "poor": [
+      "靠细腻光影和真实质感的照片：人像皮肤特写、美食微距",
+      "颜色鲜艳繁多、需要全部保留的画面，最后只留二到四种专色",
+      "想要写实插画、卡通、3D 或热闹宣传海报的需求"
+    ]
+  },
+  "en": {
+    "name": "New-Chinese Spot-Colour Print",
+    "tagline": "Condenses a photo into a small, seal-like New-Chinese spot-colour print in wide Eastern white space.",
+    "look": "Your photo is reduced to a small print with the presence of a seal stamp: silhouettes, large flat colour areas, white carved lines and positive-negative shapes, with slightly rough edges, ink dropouts, slight misregistration and visible paper fibre, so it looks printed rather than painted. It uses two to four muted spot colours taken from the photo: one main colour carries the structure, one accent marks the focus, black or a dark tone handles text and a few outlines, and cream paper fills most of the page. The subject can sit off-centre, touch an edge or be partly cropped, surrounded by wide, Eastern-style empty space. A few slim words with a modern book-design feel sit in the margins or a corner.",
+    "traits": [
+      "Woodcut and screen print",
+      "Two to four spot colours",
+      "Seal-like small subject",
+      "Eastern white space",
+      "Slim book type"
+    ],
+    "good": [
+      "Scenes with an Eastern mood or a clear outline: a pagoda, a plum branch, distant mountains, a small boat",
+      "People and animals with a strong silhouette: someone under an umbrella, a crane, a cat",
+      "Photos you want as a cultural brand visual, a book cover or a seasonal poster"
+    ],
+    "poor": [
+      "Photos that depend on delicate light and real texture: skin close-ups, food macro shots",
+      "Scenes whose many bright colours all need to stay, since only two to four spot colours remain",
+      "Requests for realistic illustration, cartoons, 3D or a busy promotional poster"
+    ]
+  },
+  "ja": {
+    "name": "新中式の特色版画と余白",
+    "tagline": "写真を、印章のような小さな新中式の特色版画にまとめ、まわりに東洋的な余白を広く取ります。",
+    "look": "写真を印章のような小さな版画にまとめます。シルエット、大きな色面、白い彫り線、ポジとネガの形で描き、縁は少し粗く、かすれ、わずかな版ずれ、紙の繊維が残り、描いたというより刷ったように見えます。色は写真から取った中〜低彩度の特色二〜四色で、主色が構造を支え、差し色が焦点をつくり、黒や濃い色が文字と少しの輪郭を受け持ち、生成りの紙面が大半を占めます。主役は中心から外したり、端に寄せたり、一部を切ったりしてよく、まわりには東洋的な広い余白があります。余白や隅には、現代の書籍組版のような細い文字が少し入ります。",
+    "traits": [
+      "木版と孔版",
+      "特色二〜四色",
+      "印章のような小さな主役",
+      "東洋的な余白",
+      "書籍風の細い文字"
+    ],
+    "good": [
+      "東洋的な趣や輪郭のはっきりした景色：塔、梅の枝、遠い山、小舟",
+      "シルエットの明快な人や動物：傘をさす人、鶴、猫",
+      "文化ブランドのビジュアル、本の表紙、季節のポスターにしたい写真"
+    ],
+    "poor": [
+      "繊細な光と本物の質感が魅力の写真：肌のアップ、料理のマクロ写真",
+      "鮮やかな色が多く、すべて残したい場面（特色は二〜四色だけになります）",
+      "写実的なイラスト、アニメ風、3D、にぎやかな宣伝ポスターを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "신중식 별색 판화와 여백",
+    "tagline": "사진을 낙관처럼 작은 신중식 별색 판화로 거두고, 주변에 동양적인 여백을 넓게 둡니다.",
+    "look": "사진을 낙관 같은 작은 판화로 정리합니다. 실루엣, 큰 색면, 흰 새김선, 양각과 음각의 형태로 그리며, 가장자리는 조금 거칠고 잉크 빠짐, 살짝 어긋난 판, 종이 섬유가 남아 그린 것이 아니라 찍은 것처럼 보입니다. 색은 사진에서 가져온 중저채도 별색 두세 가지에서 네 가지로, 주색이 구조를 받치고 포인트 색이 초점을 잡으며, 검정이나 짙은 색이 글자와 약간의 윤곽을 맡고, 미색 종이가 대부분을 차지합니다. 주인공은 한쪽으로 치우치거나 가장자리에 붙거나 일부가 잘려도 되며, 주변은 동양적인 넓은 여백입니다. 여백이나 모서리에는 현대 책 조판 같은 가는 글자가 조금 들어갑니다.",
+    "traits": [
+      "목판과 공판",
+      "별색 2~4가지",
+      "낙관 같은 작은 주인공",
+      "동양적 여백",
+      "책 조판풍 가는 글자"
+    ],
+    "good": [
+      "동양적 정취가 있거나 윤곽이 뚜렷한 풍경: 탑, 매화 가지, 먼 산, 작은 배",
+      "실루엣이 분명한 사람과 동물: 우산 쓴 사람, 학, 고양이",
+      "문화 브랜드 비주얼, 책 표지, 절기 포스터로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "섬세한 빛과 실제 질감이 매력인 사진: 피부 클로즈업, 음식 접사",
+      "화려한 색이 많고 모두 살려야 하는 장면(별색은 두세 가지에서 네 가지만 남습니다)",
+      "사실적인 일러스트, 만화풍, 3D, 떠들썩한 홍보 포스터를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "طبعة صينية جديدة بألوان موضعية وفراغ",
+    "tagline": "يكثّف الصورة في طبعة صينية جديدة صغيرة كالختم بألوان موضعية، يحيط بها فراغ شرقي واسع.",
+    "look": "تُختزل صورتك إلى طبعة صغيرة لها حضور الختم: ظلال وكتل لونية مسطحة كبيرة وخطوط محفورة بيضاء وأشكال موجبة وسالبة، بحواف خشنة قليلاً، مع انقطاعات في الحبر وانزياح طفيف في الطباعة وألياف ورق ظاهرة، فتبدو مطبوعة لا مرسومة. تستخدم من لونين إلى أربعة ألوان موضعية هادئة مأخوذة من الصورة: لون رئيسي يحمل البنية، ولون يبرز البؤرة، وأسود أو لون داكن للنص وقليل من الحدود، وورق كريمي يملأ معظم الصفحة. قد يكون العنصر بعيداً عن المركز أو ملاصقاً للحافة أو مقتطعاً جزئياً، ويحيط به فراغ واسع بروح شرقية. وتظهر في الهوامش أو في زاوية كلمات قليلة رفيعة بإحساس تصميم الكتب الحديث.",
+    "traits": [
+      "طباعة خشبية وحريرية",
+      "لونان إلى أربعة ألوان موضعية",
+      "عنصر صغير كالختم",
+      "فراغ شرقي",
+      "خط كتب رفيع"
+    ],
+    "good": [
+      "مناظر ذات روح شرقية أو حدود واضحة: باغودا، غصن برقوق مزهر، جبال بعيدة، قارب صغير",
+      "أشخاص وحيوانات بظل واضح: شخص تحت مظلة، طائر كركي، قطة",
+      "صور تريدها هوية لعلامة ثقافية أو غلاف كتاب أو ملصقاً موسمياً"
+    ],
+    "poor": [
+      "صور تعتمد على الضوء الرقيق والملمس الحقيقي: صور البشرة القريبة، صور الطعام المكبّرة",
+      "مشاهد كثيرة الألوان الزاهية يجب الإبقاء عليها كلها، إذ لا يبقى إلا لونان إلى أربعة",
+      "طلب رسم واقعي أو كرتوني أو ثلاثي الأبعاد أو ملصق دعائي صاخب"
+    ]
+  }
+}
